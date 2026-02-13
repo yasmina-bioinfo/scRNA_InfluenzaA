@@ -1,1 +1,1 @@
-This folder contains raw GSM files not upload to GitHub.
+This folder contains raw GSM files not uploaded to GitHub.
