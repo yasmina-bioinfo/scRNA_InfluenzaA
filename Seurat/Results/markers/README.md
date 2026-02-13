@@ -1,0 +1,1 @@
+This folder contains processed objects not upload to GitHub.

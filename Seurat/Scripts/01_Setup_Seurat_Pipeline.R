@@ -1,0 +1,13 @@
+# Setup Seurat pipeline: install packages
+install.packages("dplyr")
+install.packages("Seurat")
+install.packages("ggrepel")
+install.packages("viridis")
+install.packages("data.table")
+install.packages("future")
+install.packages("future.apply")
+install.packages("patchwork")
+install.packages("cowplot")
+install.packages("SeuratDisk")
+install.packages("tidyverse")
+install.packages("harmony")
